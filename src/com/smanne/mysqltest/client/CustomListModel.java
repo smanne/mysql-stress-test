@@ -34,8 +34,7 @@ public class CustomListModel extends DefaultListModel {
 	 * old collection, It wont support generic collections so we are converting
 	 * it to arrayList
 	 * 
-	 * @param defaultListModel
-	 * @return
+	 * @return ArrayList
 	 * @throws Exception
 	 */
 	public ArrayList<String> toArrayList() {
